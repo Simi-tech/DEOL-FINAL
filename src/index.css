@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+  background-color: white;
+}
+
+#blck{
+  border: solid 1px black;
+}
+
+#abt{
+  cursor: pointer;
+}
